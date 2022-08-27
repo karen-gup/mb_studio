@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Satisfy&display=swap');
+
+
+.tittle {
+    font-family: 'Satisfy', cursive;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    color: #EC9EC0;
+    -webkit-text-stroke: 1px #F80880;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    color: #A91B60;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px; 
+}
+
+.title {
+    margin: 0;
+    border: 0;
+    display: flex;
+    background-image: url("imgs/Rose.png");
+    background-repeat: no-repeat;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90px;
+    }
+
+.menu-secc {
+    height: 40px;
+    left: 0px;
+    top: 54px;
+    background: #EBE0D0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.optn_menu {
+    width: 33%;
+    height: 90%;
+    border-radius: 12px;
+    border: none;
+    background: none;
+    color: #A91B60;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.text-footer {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.icons-secc {
+    display: flex;
+    justify-content: space-around;
+}
